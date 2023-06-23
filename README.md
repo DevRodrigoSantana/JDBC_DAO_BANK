@@ -5,6 +5,8 @@ Esse projeto tem objetivo melhorara minhas habilidades com banco de dados e com 
 Este é um repositório do GitHub contendo um projeto de um sistema de caixa eletrônico desenvolvido utilizando JDBC (Java Database Connectivity) e seguindo a arquitetura DAO (Data Access Object).
 
 ## Visão Geral do Projeto
+<img width="189" alt="Captura de tela 2023-06-23 142038" src="https://github.com/DevRodrigoSantana/JDBC_DAO_BANK/assets/127454248/7e3455a4-aea0-4a2f-a21a-6118fcddb0a3">
+![Uploading Captura de tela 2023-06-23 141938.png…]()
 
 O objetivo deste projeto é simular o funcionamento de um caixa eletrônico, onde os usuários podem realizar diversas operações bancárias, como saques, depósitos, transferências, consulta de saldo e extrato.
 
