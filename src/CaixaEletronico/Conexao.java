@@ -8,7 +8,7 @@ public class Conexao {
 
 
 	public static void main(String[] args) throws SQLException {
-		 final String url  = "jdbc:mysql://localhost:3306/agencia?verifyServerCertificate=false&useSSL=true";
+		 final String url  = "";
 		 final String usuario = "root";
 		 final String senha = "";
 		 
