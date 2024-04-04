@@ -9,9 +9,9 @@ public class FabricaConexao {
 	public static Connection getConexao() {
 		try {
 			
-		final String url = "jdbc:mysql://localhost:/agencia?verifyServerCertificate=false&useSSL=true";
-		final String usuario =  "root"; 
-		final String senha = "harrypotter";
+		final String url = "";
+		final String usuario =  ""; 
+		final String senha = "";
 
 		return DriverManager.getConnection(url,usuario,senha);
 		}catch(SQLException e) {
